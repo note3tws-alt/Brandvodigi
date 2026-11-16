@@ -69,7 +69,7 @@ print(json.dumps(imgs, indent=0))
 # client render instead of hydrating (hydrating would mismatch on animations).
 rep('dl.hasChildNodes()?Ac(dl,vo):Mc(dl).render(vo);', 'Mc(dl).render(vo);')
 
-js_new = 'assets/index-bv20261116.js'
+js_new = 'assets/index-bv20261116b.js'
 open(os.path.join(OUT, js_new), 'w').write(s)
 os.remove(os.path.join(OUT, js_old))
 # point every html at the new bundle
