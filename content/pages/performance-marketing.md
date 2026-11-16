@@ -1,8 +1,8 @@
 ---
 slug: performance-marketing
 url: /services/performance-marketing/
-title: Performance Marketing Agency in Kerala | Brandvo Digital Co.
-metaDescription: Paid media tied to revenue for Kerala businesses: conversion tracking, weekly testing, ROAS reporting and scaling what converts across Meta and other platforms.
+title: Performance Marketing Agency in Kerala | Brandvo
+metaDescription: Paid media tied to revenue for Kerala businesses: conversion tracking, weekly testing, ROAS reporting and scaling what converts.
 h1: Paid Media Tied to Revenue, Tested Every Week
 primaryKeyword: performance marketing agency in kerala
 breadcrumb: Services > Performance Marketing

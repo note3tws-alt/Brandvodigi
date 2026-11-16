@@ -40,7 +40,16 @@ rep('"Brandvo Digital Co. is a performance-driven digital marketing and creative
     '"Brandvo Digital Co. is a performance-driven digital marketing and creative agency based in Payyanur, Kerala. We help businesses across Kerala build a strong online presence, generate qualified leads and turn attention into revenue."')
 rep('"A performance-driven digital marketing and creative agency helping businesses get seen, chosen and remembered."',
     '"A performance-driven digital marketing and creative agency in Payyanur, Kerala, helping businesses get seen, chosen and remembered."')
-rep('"Brandvo Digital Co. | Digital Marketing & Creative Agency"', '"Digital Marketing Agency in Kerala | Brandvo Digital Co."')
+rep('"Brandvo Digital Co. | Digital Marketing & Creative Agency"', '"Digital Marketing Agency in Kerala | Brandvo"')
+
+# Seobility fixes (16 Nov 2026): alt text on every image, spaces in split headings
+rep('alt:r<e.length?n.name:"",loading:"lazy"', 'alt:n.name+" logo",loading:"lazy"')
+rep('alt:h?`${c.name}, ${ho(c)}`:"",width:"720"', 'alt:`${c.name}, ${ho(c)}`,width:"720"')
+rep('{src:e.image,alt:"",width:"44"', '{src:e.image,alt:e.name,width:"44"')
+rep('{src:"/logo-mark.png",alt:"",width:"306",height:"516",fetchpriority', '{src:"/logo-mark.png",alt:"Brandvo Digital Co. logo",width:"306",height:"516",fetchpriority')
+rep('{src:"/logo-mark.png",alt:"",width:"306",height:"516",loading', '{src:"/logo-mark.png",alt:"Brandvo Digital Co.",width:"306",height:"516",loading')
+for a in ["Everything You Need", "A Clear Path", "Brands Love"]:
+    rep(f'"{a}",i.jsx("br",{{}})', f'"{a} ",i.jsx("br",{{}})')
 # 5. optimised images
 imgs = {}
 for p, maxw in [("clients/gallery.png", 640), ("clients/land4sale-payyanur.png", 640), ("clients/saj-realty.png", 640),

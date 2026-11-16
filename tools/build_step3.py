@@ -92,9 +92,9 @@ def inject_root(path, root_html):
 # ---------------------------------------------------------------- homepage head
 home = out / "index.html"
 t = home.read_text()
-home_title = "Digital Marketing Agency in Kerala | Brandvo Digital Co."
-home_desc = ("Brandvo Digital Co. is a Payyanur-based digital marketing agency helping Kerala businesses "
-             "get leads with social media marketing, Meta Ads, branding and web design.")
+home_title = "Digital Marketing Agency in Kerala | Brandvo"
+home_desc = ("Payyanur-based digital marketing agency helping Kerala businesses get more leads "
+             "with social media marketing, Meta Ads, branding and web design.")
 t = re.sub(r"<title>.*?</title>", "<title>" + esc(home_title) + "</title>", t)
 t = re.sub(r'<meta name="description" content="[^"]*" />', '<meta name="description" content="' + esc(home_desc) + '" />', t)
 t = re.sub(r'<meta property="og:title" content="[^"]*" />', '<meta property="og:title" content="' + esc(home_title) + '" />', t)

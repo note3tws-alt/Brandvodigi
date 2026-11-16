@@ -2,7 +2,7 @@
 slug: digital-marketing-agency-in-kerala
 url: /digital-marketing-agency-in-kerala/
 title: Digital Marketing Agency in Kerala for Leads | Brandvo
-metaDescription: Brandvo Digital Co. is a performance-driven digital marketing agency in Kerala for social media, Meta Ads, branding and lead generation. Based in Payyanur.
+metaDescription: Performance-driven digital marketing agency in Kerala for social media, Meta Ads, branding and lead generation. Based in Payyanur.
 h1: A Performance-Driven Digital Marketing Agency for Kerala Businesses
 primaryKeyword: digital marketing agency in kerala
 breadcrumb: Kerala

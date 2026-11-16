@@ -1,8 +1,8 @@
 ---
 slug: digital-marketing-agency-in-payyanur
 url: /digital-marketing-agency-in-payyanur/
-title: Digital Marketing Agency in Payyanur | Brandvo Digital Co.
-metaDescription: Brandvo Digital Co. is a Payyanur-based digital marketing agency for social media, Meta Ads and lead generation. Talk to a local team about more enquiries.
+title: Digital Marketing Agency in Payyanur | Brandvo
+metaDescription: Payyanur-based digital marketing agency for social media, Meta Ads and lead generation. Talk to a local team about getting more enquiries.
 h1: Payyanur's Performance-Driven Digital Marketing Agency
 primaryKeyword: digital marketing agency in payyanur
 secondaryKeywords: best digital marketing agency in payyanur, digital marketing company in payyanur, digital marketing services in payyanur, social media marketing agency in payyanur

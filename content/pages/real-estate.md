@@ -2,7 +2,7 @@
 slug: real-estate
 url: /industries/real-estate/
 title: Real Estate Digital Marketing in Kerala | Brandvo
-metaDescription: Real estate digital marketing in Kerala: Meta Ads, creatives and follow-up flows that bring qualified buyer leads for builders, developers and land sellers.
+metaDescription: Real estate marketing in Kerala: Meta Ads, creatives and follow-up flows that bring qualified buyer leads for builders and land sellers.
 h1: Real Estate Leads From People Who Actually Want to Buy
 primaryKeyword: real estate digital marketing agency in kerala
 breadcrumb: Industries > Real Estate

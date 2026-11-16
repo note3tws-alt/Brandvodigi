@@ -1,8 +1,8 @@
 ---
 slug: digital-marketing-agency-in-kannur
 url: /digital-marketing-agency-in-kannur/
-title: Digital Marketing Agency in Kannur | Brandvo Digital Co.
-metaDescription: Digital marketing for Kannur, Thalassery and Kasaragod businesses: social media, Meta Ads and lead generation from a Payyanur-based team focused on enquiries.
+title: Digital Marketing Agency in Kannur | Brandvo
+metaDescription: Digital marketing for Kannur, Thalassery and Kasaragod businesses: social media, Meta Ads and lead generation from a Payyanur-based team.
 h1: Digital Marketing Agency in Kannur, Built in Payyanur
 primaryKeyword: digital marketing agency in kannur
 secondaryKeywords: best digital marketing agency in kannur, digital marketing company in kannur, social media marketing agency in kannur, digital marketing agency in thalassery, digital marketing agency in kasaragod, website development company in kannur

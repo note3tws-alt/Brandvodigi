@@ -1,8 +1,8 @@
 ---
 slug: social-media-marketing
 url: /services/social-media-marketing/
-title: Social Media Marketing Agency in Kerala | Brandvo Digital Co.
-metaDescription: Social media marketing and management for Kerala businesses: content calendars, Reels, design, community replies and growth plans built to bring enquiries.
+title: Social Media Marketing Agency in Kerala | Brandvo
+metaDescription: Social media marketing for Kerala businesses: content calendars, Reels, design, community replies and growth plans built to bring enquiries.
 h1: Social Media Marketing That Brings Enquiries, Not Just Likes
 primaryKeyword: social media marketing agency in kerala
 breadcrumb: Services > Social Media Marketing

@@ -1,8 +1,8 @@
 ---
 slug: meta-ads
 url: /services/meta-ads/
-title: Meta Ads Agency in Kerala: Facebook & Instagram Ads | Brandvo
-metaDescription: Facebook and Instagram ads for Kerala businesses, built for cost-efficient leads and sales: audience and creative testing, lead campaigns, tracking and reporting.
+title: Facebook & Instagram Ads Agency in Kerala | Brandvo
+metaDescription: Facebook and Instagram ads for Kerala businesses, built for cost-efficient leads: audience and creative testing, tracking and clear reporting.
 h1: Facebook and Instagram Ads Built for Cost-Efficient Leads
 primaryKeyword: meta ads agency in kerala
 breadcrumb: Services > Meta Ads
