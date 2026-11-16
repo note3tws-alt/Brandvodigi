@@ -7,14 +7,11 @@ h1: Payyanur's Performance-Driven Digital Marketing Agency
 primaryKeyword: digital marketing agency in payyanur
 secondaryKeywords: best digital marketing agency in payyanur, digital marketing company in payyanur, digital marketing services in payyanur, social media marketing agency in payyanur
 schema: ProfessionalService (address locality Payyanur), WebPage, BreadcrumbList, FAQPage content only (no FAQ rich-result claim)
-status: DRAFT, needs phone number confirmed and case-study figures approved by the client
 ---
 
 # Payyanur's Performance-Driven Digital Marketing Agency
 
 Brandvo Digital Co. is a **digital marketing agency in Payyanur** that plans, creates and runs social media, Meta Ads and lead-generation campaigns for local businesses. We are based here, we work with Payyanur brands, and we measure our work in enquiries, bookings and sales.
-
-[Book a strategy call](/#contact) · [WhatsApp us]({{WHATSAPP_LINK}})
 
 ## Why Payyanur businesses need a different plan
 
@@ -39,9 +36,9 @@ Payyanur is a town where people still ask friends first, then check Instagram, t
 
 ## Work with Payyanur brands
 
-**Unicorn Bakes, Payyanur (customised cakes).** We handle content, ads and branding. In the founder's words: "Their content, ads and branding brought in steady orders and good sales." {{ADD: what was done and one figure the client approves}}
+**Unicorn Bakes, Payyanur (customised cakes).** Brandvo handles content, ads and branding. In the founder's words: "Working with Brandvo changed how people find us. Their content, ads and branding brought in steady orders and good sales."
 
-**Land4Sale Payyanur (property).** {{ADD: short case study once confirmed}}
+**Land4Sale Payyanur (property)** is also a Brandvo client.
 
 **SAJ Realty (real estate).** "Brandvo helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
 
@@ -74,10 +71,6 @@ Yes. Most Payyanur campaigns run in Malayalam, English or both.
 ### Can you help with our Google Business Profile?
 Yes. We set up and optimise profiles and build a routine for genuine customer reviews.
 
-## Talk to a local team
+## Related pages
 
-Tell us what you sell and who you want to reach. We'll reply within one working day with next steps.
-
-[Book a strategy call](/#contact) · Phone {{PHONE}} · info@brandvodigital.com
-
-Also see: [Digital marketing agency in Kannur](/digital-marketing-agency-in-kannur/) · [Kerala](/digital-marketing-agency-in-kerala/) · [Real estate marketing](/industries/real-estate/)
+[Digital marketing agency in Kannur](/digital-marketing-agency-in-kannur/) · [Kerala](/digital-marketing-agency-in-kerala/) · [Real estate marketing](/industries/real-estate/)

@@ -7,14 +7,11 @@ h1: Digital Marketing Agency in Kannur, Built in Payyanur
 primaryKeyword: digital marketing agency in kannur
 secondaryKeywords: best digital marketing agency in kannur, digital marketing company in kannur, social media marketing agency in kannur, digital marketing agency in thalassery, digital marketing agency in kasaragod, website development company in kannur
 schema: ProfessionalService (areaServed Kannur, Kasaragod districts), WebPage, BreadcrumbList
-status: DRAFT, needs phone number confirmed and case-study figures approved
 ---
 
 # Digital Marketing Agency in Kannur, Built in Payyanur
 
 Brandvo Digital Co. is a **digital marketing agency in Kannur district**, based in Payyanur. We help businesses in Kannur, Thalassery, Taliparamba, Payyanur and Kasaragod turn social media and paid ads into enquiries they can measure.
-
-[Book a strategy call](/#contact) · [WhatsApp us]({{WHATSAPP_LINK}})
 
 ## North Malabar is several markets, not one
 
@@ -42,7 +39,7 @@ Festivals and seasons matter here too: Onam, Vishu, Eid, Christmas, the wedding 
 
 - **Unicorn Bakes, Payyanur:** "Their content, ads and branding brought in steady orders and good sales." — Abhishek, Founder
 - **SAJ Realty:** "Brandvo helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
-- **Land4Sale Payyanur** and **K1 Kitchen Gallery** are also clients. {{ADD: one-line results once approved}}
+- **Land4Sale Payyanur** and **K1 Kitchen Gallery** are also Brandvo clients.
 
 ## Why choose a Kannur-district agency
 
@@ -65,8 +62,6 @@ It depends on your goal and market size. We recommend a test budget after the st
 ### Do you build websites for Kannur businesses?
 Yes, conversion-focused websites and landing pages, built to work on mobile and connect to WhatsApp.
 
-## Start with a strategy call
+## Related pages
 
-[Book a strategy call](/#contact) · Phone {{PHONE}} · info@brandvodigital.com
-
-Also see: [Payyanur](/digital-marketing-agency-in-payyanur/) · [Kerala](/digital-marketing-agency-in-kerala/) · [Meta Ads](/services/meta-ads/)
+[Payyanur](/digital-marketing-agency-in-payyanur/) · [Kerala](/digital-marketing-agency-in-kerala/) · [Meta Ads](/services/meta-ads/)

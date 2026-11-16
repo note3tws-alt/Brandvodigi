@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brandvodigital.com/sitemap.xml
