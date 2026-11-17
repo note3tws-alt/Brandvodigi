@@ -80,7 +80,7 @@ llms = f"""# Brandvo Digital Co.
 
 - Name: Brandvo Digital Co. (website: {SITE}/)
 - Location: Payyanur, Kannur district, Kerala, India. Serves Payyanur, Kannur, Kasaragod, Kozhikode, Kochi and the rest of Kerala, plus the UAE.
-- Founders: Abhishek and Sajeer Angillath
+- Founder: Ansar. Co-founders: Akshay and Abhishek.
 - Services: Social Media Marketing, Meta Ads, Performance Marketing, SEO, Branding, Creative Design, Web Design and Development
 - Work so far includes real estate, beauty salons, bakeries, kitchen interiors and gaming businesses
 - Clients include: Ruyah by Naas (Kozhikode), Unicorn Bakes (Payyanur), K1 Kitchen Gallery, Land4Sale Payyanur, SAJ Realty, Auto Jota, Playbox Club (Kochi)

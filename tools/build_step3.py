@@ -59,8 +59,9 @@ ORG = {
         {"@type": "State", "name": "Kerala"},
     ],
     "founder": [
-        {"@type": "Person", "name": "Abhishek"},
-        {"@type": "Person", "name": "Sajeer Angillath"},
+        {"@type": "Person", "name": "Ansar", "jobTitle": "Founder"},
+        {"@type": "Person", "name": "Akshay", "jobTitle": "Co-founder"},
+        {"@type": "Person", "name": "Abhishek", "jobTitle": "Co-founder"},
     ],
     "sameAs": [
         "https://www.instagram.com/brandvo_digital_co/",
