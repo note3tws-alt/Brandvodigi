@@ -116,7 +116,7 @@ For help deciding between channels, read [SEO vs Meta Ads vs Google Ads: where t
 
 ## Where Brandvo fits
 
-Brandvo Digital Co. is based in Payyanur in Kannur district. We work with local businesses on social media marketing, Meta Ads, SEO, branding and web design, and we build strategy, creative and campaigns together. If you are shortlisting the best digital marketing agency in Kannur for your business, [get in touch](/#contact) and we will tell you plainly what would work and what would not.
+Brandvo Digital Co. is based in [Payyanur](/digital-marketing-agency-in-payyanur/) in Kannur district. We work with local businesses on social media marketing, Meta Ads, SEO, branding and web design, and we build strategy, creative and campaigns together. See what we do as a [digital marketing agency in Kannur](/digital-marketing-agency-in-kannur/). If you are shortlisting the best digital marketing agency in Kannur for your business, [get in touch](/#contact) and we will tell you plainly what would work and what would not.
 
 ## Frequently asked questions
 
@@ -213,7 +213,7 @@ Walk away from anyone who guarantees the first position on Google, a fixed numbe
 
 ## Where Brandvo fits
 
-Brandvo Digital Co. is a performance-driven agency based in Payyanur, Kannur, working across social media marketing, Meta Ads, SEO, branding, web design and performance marketing. We build strategy, creative and paid campaigns as one system so that every post and ad has a job. If you want to see how we would approach your business, [book a strategy call](/#contact) and bring your toughest questions from the list above.
+Brandvo Digital Co. is a performance-driven [digital marketing agency in Kerala](/digital-marketing-agency-in-kerala/), based in Payyanur, Kannur, working across [social media marketing](/services/social-media-marketing/), [Meta Ads](/services/meta-ads/), SEO, branding, web design and performance marketing. We build strategy, creative and paid campaigns as one system so that every post and ad has a job. If you want to see how we would approach your business, [book a strategy call](/#contact) and bring your toughest questions from the list above.
 
 ## Frequently asked questions
 
@@ -431,7 +431,7 @@ Score each agency from 1 to 5 on the points below, then compare totals. Weight t
 
 ## Where Brandvo stands
 
-Brandvo Digital Co. is built around one idea: strategy, creativity and performance should work as a single system. We do not create content to fill a feed. Every post, reel and ad has a purpose, whether that is awareness, enquiries, bookings or sales. If you are comparing agencies, [talk to us](/#contact) and ask any question on this list.
+Brandvo Digital Co. is built around one idea: strategy, creativity and [performance marketing](/services/performance-marketing/) should work as a single system. We do not create content to fill a feed. Every post, reel and ad has a purpose, whether that is awareness, enquiries, bookings or sales. If you are comparing agencies, [talk to us](/#contact) and ask any question on this list.
 
 You can also read our guides on choosing the [best digital marketing agency in Kerala](/blog/best-digital-marketing-agency-in-kerala/) and the [best digital marketing agency in the UAE](/blog/best-digital-marketing-agency-in-uae/).
 
@@ -550,7 +550,7 @@ If you are comparing agencies, our guides on the [best digital marketing agency 
 
 ## How Brandvo can help
 
-Brandvo Digital Co. plans SEO, Meta Ads, Google campaigns and content together so each channel supports the others. [Book a strategy call](/#contact) and we will help you decide where your first rupee, or dirham, should go.
+Brandvo Digital Co. plans SEO, [Meta Ads](/services/meta-ads/), Google campaigns and content together so each channel supports the others. [Book a strategy call](/#contact) and we will help you decide where your first rupee, or dirham, should go.
 
 ## Frequently asked questions
 

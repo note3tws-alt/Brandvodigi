@@ -42,6 +42,14 @@ rep('"A performance-driven digital marketing and creative agency helping busines
     '"A performance-driven digital marketing and creative agency in Payyanur, Kerala, helping businesses get seen, chosen and remembered."')
 rep('"Brandvo Digital Co. | Digital Marketing & Creative Agency"', '"Digital Marketing Agency in Kerala | Brandvo"')
 
+# Internal links from blog posts to the location and service pages (17 Nov 2026)
+rep("Brandvo Digital Co. is based in Payyanur in Kannur district. We work with local businesses on social media marketing, Meta Ads, SEO, branding and web design, and we build strategy, creative and campaigns together. If you are shortlisting",
+    "Brandvo Digital Co. is based in [Payyanur](/digital-marketing-agency-in-payyanur/) in Kannur district. We work with local businesses on social media marketing, Meta Ads, SEO, branding and web design, and we build strategy, creative and campaigns together. See what we do as a [digital marketing agency in Kannur](/digital-marketing-agency-in-kannur/). If you are shortlisting")
+rep("Brandvo Digital Co. is a performance-driven agency based in Payyanur, Kannur, working across social media marketing, Meta Ads, SEO,",
+    "Brandvo Digital Co. is a performance-driven [digital marketing agency in Kerala](/digital-marketing-agency-in-kerala/), based in Payyanur, Kannur, working across [social media marketing](/services/social-media-marketing/), [Meta Ads](/services/meta-ads/), SEO,")
+rep("Brandvo Digital Co. plans SEO, Meta Ads, Google campaigns", "Brandvo Digital Co. plans SEO, [Meta Ads](/services/meta-ads/), Google campaigns")
+rep("strategy, creativity and performance should work as a single system", "strategy, creativity and [performance marketing](/services/performance-marketing/) should work as a single system")
+
 # Seobility fixes (16 Nov 2026): alt text on every image, spaces in split headings
 rep('alt:r<e.length?n.name:"",loading:"lazy"', 'alt:n.name+" logo",loading:"lazy"')
 rep('alt:h?`${c.name}, ${ho(c)}`:"",width:"720"', 'alt:`${c.name}, ${ho(c)}`,width:"720"')
@@ -69,7 +77,8 @@ print(json.dumps(imgs, indent=0))
 # client render instead of hydrating (hydrating would mismatch on animations).
 rep('dl.hasChildNodes()?Ac(dl,vo):Mc(dl).render(vo);', 'Mc(dl).render(vo);')
 
-js_new = 'assets/index-bv20261116b.js'
+import hashlib
+js_new = 'assets/index-bv' + hashlib.sha1(s.encode()).hexdigest()[:8] + '.js'  # content-hashed so caches never serve an old bundle
 open(os.path.join(OUT, js_new), 'w').write(s)
 os.remove(os.path.join(OUT, js_old))
 # point every html at the new bundle
