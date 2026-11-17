@@ -87,7 +87,7 @@ Ask any agency to show you how they would plan around these windows for your ind
 
 For a fuller set of questions that applies in any market, read [what makes the best digital marketing agency](/blog/best-digital-marketing-agency/).
 
-## Where Brandvo fits
+## Where Brandvo Digital Co. fits
 
 Brandvo Digital Co. is a performance-driven agency based in Kerala, India, built around strategy, creativity and measurable growth. We help businesses plan content and run campaigns on Meta and Google, and we work with brands that sell to Gulf audiences as well as local ones. If you are shortlisting the best digital marketing agency in UAE for your business and want a second opinion on your plan, [reach out](/#contact).
 

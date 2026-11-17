@@ -1,7 +1,7 @@
 ---
 slug: digital-marketing-agency-in-payyanur
 url: /digital-marketing-agency-in-payyanur/
-title: Digital Marketing Agency in Payyanur | Brandvo
+title: Digital Marketing Agency in Payyanur | Brandvo Digital Co.
 metaDescription: Payyanur-based digital marketing agency for social media, Meta Ads and lead generation. Talk to a local team about getting more enquiries.
 h1: Payyanur's Performance-Driven Digital Marketing Agency
 primaryKeyword: digital marketing agency in payyanur
@@ -36,11 +36,11 @@ Payyanur is a town where people still ask friends first, then check Instagram, t
 
 ## Work with Payyanur brands
 
-**Unicorn Bakes, Payyanur (customised cakes).** Brandvo handles content, ads and branding. In the founder's words: "Working with Brandvo changed how people find us. Their content, ads and branding brought in steady orders and good sales."
+**Unicorn Bakes, Payyanur (customised cakes).** Brandvo Digital Co. handles content, ads and branding. In the founder's words: "Working with Brandvo Digital Co. changed how people find us. Their content, ads and branding brought in steady orders and good sales."
 
-**Land4Sale Payyanur (property)** is also a Brandvo client.
+**Land4Sale Payyanur (property)** is also a Brandvo Digital Co. client.
 
-**SAJ Realty (real estate).** "Brandvo helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
+**SAJ Realty (real estate).** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
 
 ## How we work
 
@@ -56,7 +56,7 @@ Real estate and land sellers, bakeries and restaurants, salons and boutiques, cl
 
 ## Frequently asked questions
 
-### Is Brandvo actually based in Payyanur?
+### Is Brandvo Digital Co. actually based in Payyanur?
 Yes. Brandvo Digital Co. is based in Payyanur, Kannur district. We can meet local clients in person and work with clients elsewhere in Kerala remotely.
 
 ### How much does digital marketing cost for a small business in Payyanur?

@@ -1,7 +1,7 @@
 ---
 slug: meta-ads
 url: /services/meta-ads/
-title: Facebook & Instagram Ads Agency in Kerala | Brandvo
+title: Facebook & Instagram Ads Agency in Kerala | Brandvo Digital Co.
 metaDescription: Facebook and Instagram ads for Kerala businesses, built for cost-efficient leads: audience and creative testing, tracking and clear reporting.
 h1: Facebook and Instagram Ads Built for Cost-Efficient Leads
 primaryKeyword: meta ads agency in kerala
@@ -33,8 +33,8 @@ Real estate developers and land sellers, clinics, salons, restaurants and bakeri
 
 ## Results from Meta Ads clients
 
-- **SAJ Realty:** "Brandvo helped us get highly qualified leads for our real estate properties. We now spend our time speaking to people who are genuinely interested."
-- **Playbox Club, Kochi:** "Brandvo helped us get steady PS5 sales."
+- **SAJ Realty:** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties. We now spend our time speaking to people who are genuinely interested."
+- **Playbox Club, Kochi:** "Brandvo Digital Co. helped us get steady PS5 sales."
 
 ## How a campaign runs
 

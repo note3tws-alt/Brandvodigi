@@ -1,7 +1,7 @@
 ---
 slug: social-media-marketing
 url: /services/social-media-marketing/
-title: Social Media Marketing Agency in Kerala | Brandvo
+title: Social Media Marketing Agency in Kerala | Brandvo Digital Co.
 metaDescription: Social media marketing for Kerala businesses: content calendars, Reels, design, community replies and growth plans built to bring enquiries.
 h1: Social Media Marketing That Brings Enquiries, Not Just Likes
 primaryKeyword: social media marketing agency in kerala
@@ -33,8 +33,8 @@ People in Kerala check Instagram before they visit, call or buy. An active, prof
 
 ## Client results
 
-- **Unicorn Bakes, Payyanur:** "Working with Brandvo changed how people find us. Their content, ads and branding brought in steady orders and good sales."
-- **Ruyah by Naas, Kozhikode** (beauty salon and designer lounge) is also a Brandvo client.
+- **Unicorn Bakes, Payyanur:** "Working with Brandvo Digital Co. changed how people find us. Their content, ads and branding brought in steady orders and good sales."
+- **Ruyah by Naas, Kozhikode** (beauty salon and designer lounge) is also a Brandvo Digital Co. client.
 
 ## Frequently asked questions
 

@@ -97,7 +97,7 @@ Without tracking, you are guessing. Before launching, make sure you can answer: 
 
 If you are comparing agencies, our guides on the [best digital marketing agency in Kerala](/blog/best-digital-marketing-agency-in-kerala/), the [best digital marketing agency in Kannur](/blog/best-digital-marketing-agency-in-kannur/) and the [best digital marketing agency in the UAE](/blog/best-digital-marketing-agency-in-uae/) will help you ask better questions.
 
-## How Brandvo can help
+## How Brandvo Digital Co. can help
 
 Brandvo Digital Co. plans SEO, Meta Ads, Google campaigns and content together so each channel supports the others. [Book a strategy call](/#contact) and we will help you decide where your first rupee, or dirham, should go.
 

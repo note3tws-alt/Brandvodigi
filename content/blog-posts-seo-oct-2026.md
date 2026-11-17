@@ -77,7 +77,7 @@ Walk away from anyone who guarantees the first position on Google, a fixed numbe
 - **E-commerce and retail:** product feeds, retargeting and creative testing.
 - **Restaurants and hospitality:** local search, reviews and seasonal campaigns.
 
-## Where Brandvo fits
+## Where Brandvo Digital Co. fits
 
 Brandvo Digital Co. is a performance-driven agency based in Payyanur, Kannur, working across social media marketing, Meta Ads, SEO, branding, web design and performance marketing. We build strategy, creative and paid campaigns as one system so that every post and ad has a job. If you want to see how we would approach your business, [book a strategy call](/#contact) and bring your toughest questions from the list above.
 
@@ -170,7 +170,7 @@ Our broader guide on [how to choose the best digital marketing agency in Kerala]
 
 For help deciding between channels, read [SEO vs Meta Ads vs Google Ads: where to spend first](/blog/seo-vs-meta-ads-vs-google-ads/).
 
-## Where Brandvo fits
+## Where Brandvo Digital Co. fits
 
 Brandvo Digital Co. is based in Payyanur in Kannur district. We work with local businesses on social media marketing, Meta Ads, SEO, branding and web design, and we build strategy, creative and campaigns together. If you are shortlisting the best digital marketing agency in Kannur for your business, [get in touch](/#contact) and we will tell you plainly what would work and what would not.
 
@@ -278,7 +278,7 @@ Score each agency from 1 to 5 on the points below, then compare totals. Weight t
 8. Realistic promises and honest answers
 9. Easy to communicate with
 
-## Where Brandvo stands
+## Where Brandvo Digital Co. stands
 
 Brandvo Digital Co. is built around one idea: strategy, creativity and performance should work as a single system. We do not create content to fill a feed. Every post, reel and ad has a purpose, whether that is awareness, enquiries, bookings or sales. If you are comparing agencies, [talk to us](/#contact) and ask any question on this list.
 
@@ -386,7 +386,7 @@ Ask any agency to show you how they would plan around these windows for your ind
 
 For a fuller set of questions that applies in any market, read [what makes the best digital marketing agency](/blog/best-digital-marketing-agency/).
 
-## Where Brandvo fits
+## Where Brandvo Digital Co. fits
 
 Brandvo Digital Co. is a performance-driven agency based in Kerala, India, built around strategy, creativity and measurable growth. We help businesses plan content and run campaigns on Meta and Google, and we work with brands that sell to Gulf audiences as well as local ones. If you are shortlisting the best digital marketing agency in UAE for your business and want a second opinion on your plan, [reach out](/#contact).
 
@@ -504,7 +504,7 @@ Without tracking, you are guessing. Before launching, make sure you can answer: 
 
 If you are comparing agencies, our guides on the [best digital marketing agency in Kerala](/blog/best-digital-marketing-agency-in-kerala/), the [best digital marketing agency in Kannur](/blog/best-digital-marketing-agency-in-kannur/) and the [best digital marketing agency in the UAE](/blog/best-digital-marketing-agency-in-uae/) will help you ask better questions.
 
-## How Brandvo can help
+## How Brandvo Digital Co. can help
 
 Brandvo Digital Co. plans SEO, Meta Ads, Google campaigns and content together so each channel supports the others. [Book a strategy call](/#contact) and we will help you decide where your first rupee, or dirham, should go.
 

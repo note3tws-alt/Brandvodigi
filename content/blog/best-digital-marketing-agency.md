@@ -89,7 +89,7 @@ Score each agency from 1 to 5 on the points below, then compare totals. Weight t
 8. Realistic promises and honest answers
 9. Easy to communicate with
 
-## Where Brandvo stands
+## Where Brandvo Digital Co. stands
 
 Brandvo Digital Co. is built around one idea: strategy, creativity and performance should work as a single system. We do not create content to fill a feed. Every post, reel and ad has a purpose, whether that is awareness, enquiries, bookings or sales. If you are comparing agencies, [talk to us](/#contact) and ask any question on this list.
 

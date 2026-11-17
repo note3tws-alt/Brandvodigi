@@ -1,7 +1,7 @@
 ---
 slug: real-estate
 url: /industries/real-estate/
-title: Real Estate Digital Marketing in Kerala | Brandvo
+title: Real Estate Digital Marketing in Kerala | Brandvo Digital Co.
 metaDescription: Real estate marketing in Kerala: Meta Ads, creatives and follow-up flows that bring qualified buyer leads for builders and land sellers.
 h1: Real Estate Leads From People Who Actually Want to Buy
 primaryKeyword: real estate digital marketing agency in kerala
@@ -24,8 +24,8 @@ Cheap leads are easy. Most of them never pick up the phone. Property is a high-v
 
 ## Client proof
 
-- **SAJ Realty:** "Brandvo helped us get highly qualified leads for our real estate properties. We now spend our time speaking to people who are genuinely interested." — Sajeer Angillath, Founder
-- **Land4Sale Payyanur** is also a Brandvo client.
+- **SAJ Realty:** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties. We now spend our time speaking to people who are genuinely interested." — Sajeer Angillath, Founder
+- **Land4Sale Payyanur** is also a Brandvo Digital Co. client.
 
 ## Related
 

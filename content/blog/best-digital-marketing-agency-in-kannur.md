@@ -74,7 +74,7 @@ Our broader guide on [how to choose the best digital marketing agency in Kerala]
 
 For help deciding between channels, read [SEO vs Meta Ads vs Google Ads: where to spend first](/blog/seo-vs-meta-ads-vs-google-ads/).
 
-## Where Brandvo fits
+## Where Brandvo Digital Co. fits
 
 Brandvo Digital Co. is based in Payyanur in Kannur district. We work with local businesses on social media marketing, Meta Ads, SEO, branding and web design, and we build strategy, creative and campaigns together. If you are shortlisting the best digital marketing agency in Kannur for your business, [get in touch](/#contact) and we will tell you plainly what would work and what would not.
 

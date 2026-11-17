@@ -1,7 +1,7 @@
 ---
 slug: digital-marketing-agency-in-kannur
 url: /digital-marketing-agency-in-kannur/
-title: Digital Marketing Agency in Kannur | Brandvo
+title: Digital Marketing Agency in Kannur | Brandvo Digital Co.
 metaDescription: Digital marketing for Kannur, Thalassery and Kasaragod businesses: social media, Meta Ads and lead generation from a Payyanur-based team.
 h1: Digital Marketing Agency in Kannur, Built in Payyanur
 primaryKeyword: digital marketing agency in kannur
@@ -38,8 +38,8 @@ Festivals and seasons matter here too: Onam, Vishu, Eid, Christmas, the wedding 
 ## Proof from North Kerala clients
 
 - **Unicorn Bakes, Payyanur:** "Their content, ads and branding brought in steady orders and good sales." — Abhishek, Founder
-- **SAJ Realty:** "Brandvo helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
-- **Land4Sale Payyanur** and **K1 Kitchen Gallery** are also Brandvo clients.
+- **SAJ Realty:** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
+- **Land4Sale Payyanur** and **K1 Kitchen Gallery** are also Brandvo Digital Co. clients.
 
 ## Why choose a Kannur-district agency
 

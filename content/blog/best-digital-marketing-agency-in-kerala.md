@@ -77,7 +77,7 @@ Walk away from anyone who guarantees the first position on Google, a fixed numbe
 - **E-commerce and retail:** product feeds, retargeting and creative testing.
 - **Restaurants and hospitality:** local search, reviews and seasonal campaigns.
 
-## Where Brandvo fits
+## Where Brandvo Digital Co. fits
 
 Brandvo Digital Co. is a performance-driven agency based in Payyanur, Kannur, working across social media marketing, Meta Ads, SEO, branding, web design and performance marketing. We build strategy, creative and paid campaigns as one system so that every post and ad has a job. If you want to see how we would approach your business, [book a strategy call](/#contact) and bring your toughest questions from the list above.
 
