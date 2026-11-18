@@ -3,14 +3,14 @@ slug: case-study-unicorn-bakes
 url: /work/unicorn-bakes/
 kind: case
 title: Unicorn Bakes Case Study: ₹95 Lakh in Sales From ₹8 Lakh Ad Spend | Brandvo Digital Co.
-metaDescription: How Brandvo Digital Co. helped Unicorn Bakes, a Payyanur pastry shop, turn ₹8 lakh of ad spend into ₹95 lakh in sales with content, Meta Ads and branding.
+metaDescription: How Brandvo Digital Co. helped Unicorn Bakes, a Payyanur pastry shop, turn ₹8 lakh of ad spend into ₹95 lakh in sales over two years with content, Meta Ads and branding.
 h1: Unicorn Bakes: ₹95 Lakh in Sales From ₹8 Lakh in Ad Spend
 primaryKeyword: digital marketing case study kerala
 breadcrumb: Work > Unicorn Bakes
 client: Unicorn Bakes
 ---
 
-**Unicorn Bakes** is a pastry and cake shop in Payyanur, Kannur district. Working with Brandvo Digital Co. on content, Meta Ads and branding, the business generated **₹95 lakh in sales from ₹8 lakh in ad spend**, roughly ₹11.9 in sales for every ₹1 spent on ads.
+**Unicorn Bakes** is a pastry and cake shop in Payyanur, Kannur district. Working with Brandvo Digital Co. on content, Meta Ads and branding, the business generated **₹95 lakh in sales from ₹8 lakh in ad spend over two years**, roughly ₹11.9 in sales for every ₹1 spent on ads.
 
 ![Unicorn Bakes work by Brandvo Digital Co.](/work/unicorn-bakes.webp)
 
@@ -18,6 +18,7 @@ client: Unicorn Bakes
 
 | Metric | Result |
 | --- | --- |
+| Period | 2 years |
 | Ad spend | ₹8 lakh |
 | Sales | ₹95 lakh |
 | Return on ad spend (ROAS) | About 11.9x |
@@ -63,7 +64,7 @@ We are a Payyanur-based [digital marketing agency in Kannur](/digital-marketing-
 ## Frequently asked questions
 
 ### What is ROAS?
-Return on ad spend: sales divided by ad spend. ₹95 lakh in sales from ₹8 lakh of ad spend is a ROAS of about 11.9.
+Return on ad spend: sales divided by ad spend. ₹95 lakh in sales from ₹8 lakh of ad spend over two years is a ROAS of about 11.9.
 
 ### Can every business get this result?
 No. Results depend on the product, margins, market, budget and how well enquiries are handled. We plan around your numbers and report honestly on what the ads deliver.
