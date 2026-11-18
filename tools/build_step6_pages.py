@@ -56,6 +56,7 @@ def style(body):
         body = body.replace(f"<{tag}>", f'<{tag} class="{CLS[tag]}">')
     body = re.sub(r'<a href="(https?://[^"]+)">', lambda m: f'<a href="{m.group(1)}" target="_blank" rel="noopener noreferrer" class="{CLS["a"]}">', body)
     body = re.sub(r'<a href="(/[^"]*)">', lambda m: f'<a href="{m.group(1)}" class="{CLS["a"]}">', body)
+    body = re.sub(r'<p[^>]*><img alt="([^"]*)" src="([^"]+)" ?/?></p>', lambda m: f'<img alt="{m.group(1)}" src="{m.group(2)}" loading="lazy" class="mt-8 w-full rounded-2xl border border-white/10" />', body)
     body = body.replace("<table>", '<div class="mt-7 overflow-x-auto rounded-2xl border border-white/10"><table class="w-full min-w-[560px] border-collapse text-left text-[15px] leading-6">').replace("</table>", "</table></div>")
     body = body.replace("<thead>\n<tr>", '<thead>\n<tr class="bg-white/[0.04]">').replace("<th>", '<th class="px-4 py-3 font-display text-sm font-semibold text-white">')
     body = re.sub(r"<tbody>(.*?)</tbody>", lambda m: "<tbody>" + m.group(1).replace("<tr>", '<tr class="border-t border-white/[0.07]">').replace("<td>", '<td class="px-4 py-3.5 align-top">') + "</tbody>", body, flags=re.S)
@@ -139,6 +140,13 @@ for f in sorted(src.glob("*.md")):
         main_ld = {"@type": "Service", "@id": full + "#service", "name": fm["h1"], "serviceType": name, "provider": ORG_REF,
                    "areaServed": [{"@type": "State", "name": "Kerala"}, {"@type": "Country", "name": "United Arab Emirates"}], "url": full}
         list_title = name
+    elif kind == "case":
+        eyebrow, crumbs = "Case study", [("Home", "/"), ("Case study: " + fm["client"], None)]
+        main_ld = {"@type": "Article", "@id": full + "#article", "headline": fm["h1"], "description": fm["metaDescription"],
+                   "datePublished": TODAY, "dateModified": TODAY, "inLanguage": "en-IN", "mainEntityOfPage": full,
+                   "image": SITE + "/work/unicorn-bakes.webp", "author": ORG_REF, "publisher": ORG_REF,
+                   "about": {"@type": "Bakery", "name": fm["client"], "address": {"@type": "PostalAddress", "addressLocality": "Payyanur", "addressRegion": "Kerala", "addressCountry": "IN"}}}
+        list_title = "Case study: " + fm["client"]
     else:
         eyebrow, crumbs = "Guide", [("Home", "/"), ("Blog", "/blog/"), (fm["breadcrumb"].split(">")[-1].strip(), None)]
         main_ld = {"@type": "BlogPosting", "@id": full + "#article", "headline": fm["h1"], "description": fm["metaDescription"],
@@ -175,6 +183,9 @@ t = t.replace("Digital Marketing Agency in Kerala | Brandvo Digital Co.", esc(HO
 old_hero = re.search(r'<p class="eyebrow mb-6 animate-\[fadeUp_\.8s_both\]">Strategy[^<]*</p><h1 (class="h-display[^"]*")>(.*?)</h1>', t, flags=re.S)
 if old_hero:
     t = t.replace(old_hero.group(0), f'<h1 class="eyebrow mb-6 animate-[fadeUp_.8s_both]">{HOME_H1}</h1><p {old_hero.group(1)}>{old_hero.group(2)}</p>')
+# 18 Nov: Hola asked to drop the "Strategy x Creativity x Results" style lines (read as AI-written)
+t = t.replace('Strategy + Creativity + <span class="grad-text">Performance</span>', 'Marketing Built to Bring You <span class="grad-text">Customers</span>')
+assert "Strategy + Creativity" not in t
 assert t.count("<h1") == 1 and HOME_H1 in t
 home.write_text(t)
 
@@ -203,6 +214,8 @@ s = s.replace('"Digital Marketing Agency in Kerala | Brandvo Digital Co."', json
 s = re.sub(r'i\.jsx\("p",\{className:"eyebrow mb-6 animate-\[fadeUp_\.8s_both\]",children:"Strategy[^"]*"\}\),i\.jsxs\("h1",\{className:"h-display animate-\[fadeUp_\.9s_\.08s_both\]',
            lambda m: 'i.jsx("h1",{className:"eyebrow mb-6 animate-[fadeUp_.8s_both]",children:"Best Digital Marketing Agency in Kerala & Kannur"}),'
                      'i.jsxs("p",{className:"h-display animate-[fadeUp_.9s_.08s_both]', s)
+s = s.replace('children:["Strategy + Creativity + ",i.jsx("span",{className:"grad-text",children:"Performance"})]', 'children:["Marketing Built to Bring You ",i.jsx("span",{className:"grad-text",children:"Customers"})]')
+assert "Strategy + Creativity" not in s and "Creativity  ×" not in s.replace("\u00a0", " ")
 assert 'children:"Best Digital Marketing Agency in Kerala & Kannur"' in s and HOME_TITLE in s
 js.write_text(s)
 newname = "index-bv" + hashlib.sha1(s.encode()).hexdigest()[:8] + ".js"
@@ -223,6 +236,7 @@ locs = [(t, u) for k, t, u, d, p in new if k == "location"]
 svcs = [(t, u) for k, t, u, d, p in new if k == "service"]
 arts = [(t, u) for k, t, u, d, p in new if k == "article"]
 inds = [(t + " marketing", u) for k, t, u, d, p in new if k == "industry"]
+cases = [(t, u) for k, t, u, d, p in new if k == "case"]
 # All 14 districts, linking the ones that have a page (existing step3 pages + new ones).
 have = {u for _, u in locs} | {"/digital-marketing-agency-in-kannur/", "/digital-marketing-agency-in-payyanur/"}
 DISTRICTS = [("Kasaragod", "/digital-marketing-agency-in-kasaragod/", "Kasaragod, Kanhangad"),
@@ -247,9 +261,10 @@ def district_block():
             f'<ul class="{CLS["ul"]}">' + "".join(lis) + "</ul>")
 S6 = re.compile(r"<!--s6-->.*?<!--/s6-->", re.S)
 for page, title, items in [
-    ("digital-marketing-agency-in-kerala", "Industries, services and guides", inds + svcs + arts),
-    ("digital-marketing-agency-in-kannur", "Nearby towns and guides", [x for x in locs if any(w in x[1] for w in ("thalassery", "taliparamba", "kasaragod", "kanhangad", "vadakara", "wayanad"))] + arts[:2]),
-    ("digital-marketing-agency-in-payyanur", "Nearby towns and more services", [x for x in locs if any(w in x[1] for w in ("taliparamba", "kanhangad", "kasaragod"))] + svcs),
+    ("digital-marketing-agency-in-kerala", "Industries, services and guides", cases + inds + svcs + arts),
+    ("digital-marketing-agency-in-kannur", "Nearby towns and guides", [x for x in locs if any(w in x[1] for w in ("thalassery", "taliparamba", "kasaragod", "kanhangad", "vadakara", "wayanad"))] + cases + arts[:2]),
+    ("services/meta-ads", "See the results", cases),
+    ("digital-marketing-agency-in-payyanur", "Nearby towns and more services", [x for x in locs if any(w in x[1] for w in ("taliparamba", "kanhangad", "kasaragod"))] + cases + svcs),
 ]:
     p = site / page / "index.html"
     t = p.read_text()
