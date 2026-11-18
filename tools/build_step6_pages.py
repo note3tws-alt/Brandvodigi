@@ -133,9 +133,9 @@ for f in sorted(src.glob("*.md")):
         main_ld = {"@type": "Service", "@id": full + "#service", "name": fm["h1"], "serviceType": "Digital marketing",
                    "provider": ORG_REF, "areaServed": area, "url": full}
         list_title = f"Digital marketing agency in {place}"
-    elif kind == "service":
+    elif kind in ("service", "industry"):
         name = fm["breadcrumb"].split(">")[-1].strip()
-        eyebrow, crumbs = "Services", [("Home", "/"), ("Services", "/#services"), (name, None)]
+        eyebrow, crumbs = ("Services", [("Home", "/"), ("Services", "/#services"), (name, None)]) if kind == "service" else ("Industries", [("Home", "/"), (name + " marketing", None)])
         main_ld = {"@type": "Service", "@id": full + "#service", "name": fm["h1"], "serviceType": name, "provider": ORG_REF,
                    "areaServed": [{"@type": "State", "name": "Kerala"}, {"@type": "Country", "name": "United Arab Emirates"}], "url": full}
         list_title = name
@@ -222,17 +222,43 @@ def link_block(title, items):
 locs = [(t, u) for k, t, u, d, p in new if k == "location"]
 svcs = [(t, u) for k, t, u, d, p in new if k == "service"]
 arts = [(t, u) for k, t, u, d, p in new if k == "article"]
+inds = [(t + " marketing", u) for k, t, u, d, p in new if k == "industry"]
+# All 14 districts, linking the ones that have a page (existing step3 pages + new ones).
+have = {u for _, u in locs} | {"/digital-marketing-agency-in-kannur/", "/digital-marketing-agency-in-payyanur/"}
+DISTRICTS = [("Kasaragod", "/digital-marketing-agency-in-kasaragod/", "Kasaragod, Kanhangad"),
+             ("Kannur", "/digital-marketing-agency-in-kannur/", "Kannur, Payyanur, Thalassery, Taliparamba"),
+             ("Wayanad", "/digital-marketing-agency-in-wayanad/", "Kalpetta, Sulthan Bathery"),
+             ("Kozhikode", "/digital-marketing-agency-in-kozhikode/", "Kozhikode, Vadakara"),
+             ("Malappuram", "/digital-marketing-agency-in-malappuram/", "Manjeri, Perinthalmanna, Tirur"),
+             ("Palakkad", "/digital-marketing-agency-in-palakkad/", "Palakkad, Ottapalam"),
+             ("Thrissur", "/digital-marketing-agency-in-thrissur/", "Thrissur, Guruvayur, Chalakudy"),
+             ("Ernakulam", "/digital-marketing-agency-in-kochi/", "Kochi, Kakkanad, Aluva"),
+             ("Idukki", None, "Thodupuzha, Munnar"), ("Kottayam", None, "Kottayam, Pala, Changanassery"),
+             ("Alappuzha", None, "Alappuzha, Cherthala"), ("Pathanamthitta", None, "Pathanamthitta, Thiruvalla"),
+             ("Kollam", None, "Kollam, Karunagappally"),
+             ("Thiruvananthapuram", "/digital-marketing-agency-in-trivandrum/", "Trivandrum, Kazhakkoottam, Neyyattinkara")]
+def district_block():
+    lis = []
+    for d, u, towns in DISTRICTS:
+        name = f'<a href="{u}" class="{CLS["a"]}">{d}</a>' if u and u in have else f'<strong class="{CLS["strong"]}">{d}</strong>'
+        lis.append(f'<li class="{CLS["li"]}">{name}: {esc(towns)}</li>')
+    return (f'<h2 id="areas-we-serve-in-kerala" class="{CLS["h2"]}">Areas we serve in Kerala</h2>'
+            f'<p class="{CLS["p"]}">We work with businesses in all 14 districts of Kerala, from our base in Payyanur. Districts with their own page are linked.</p>'
+            f'<ul class="{CLS["ul"]}">' + "".join(lis) + "</ul>")
+S6 = re.compile(r"<!--s6-->.*?<!--/s6-->", re.S)
 for page, title, items in [
-    ("digital-marketing-agency-in-kerala", "Towns we serve and guides", locs + arts),
-    ("digital-marketing-agency-in-kannur", "Nearby towns and guides", [x for x in locs if "kozhikode" not in x[1]] + arts[:2]),
+    ("digital-marketing-agency-in-kerala", "Industries, services and guides", inds + svcs + arts),
+    ("digital-marketing-agency-in-kannur", "Nearby towns and guides", [x for x in locs if any(w in x[1] for w in ("thalassery", "taliparamba", "kasaragod", "kanhangad", "vadakara", "wayanad"))] + arts[:2]),
     ("digital-marketing-agency-in-payyanur", "Nearby towns and more services", [x for x in locs if any(w in x[1] for w in ("taliparamba", "kanhangad", "kasaragod"))] + svcs),
 ]:
     p = site / page / "index.html"
     t = p.read_text()
-    if 'id="' + slugify(title) + '"' in t:
-        continue
+    t = S6.sub("", t)
+    # drop the unmarked block an earlier run of this script added
+    t = re.sub(r'<h2 id="(towns-we-serve-and-guides|nearby-towns-and-guides|nearby-towns-and-more-services)".*?</ul>', "", t, flags=re.S)
+    block = (district_block() if page.endswith("kerala") else "") + link_block(title, items)
     assert t.count("</div></article>") == 1
-    p.write_text(t.replace("</div></article>", link_block(title, items) + "</div></article>"))
+    p.write_text(t.replace("</div></article>", "<!--s6-->" + block + "<!--/s6--></div></article>"))
     print("linked from", page)
 
 # ------------------------------------------------ sitemap + llms.txt
@@ -243,11 +269,13 @@ for page in ("digital-marketing-agency-in-kerala", "digital-marketing-agency-in-
 (site / "sitemap.xml").write_text(sm.replace("</urlset>", add + "</urlset>"))
 
 llms = (site / "llms.txt").read_text()
-if "## More locations, services and guides" not in llms:
-    llms = llms.replace("\n## Contact", "\n## More locations, services and guides\n\n" +
-                        "".join(f"- [{t}]({SITE}{u}): {d}\n" for k, t, u, d, p in new) + "\n## Contact")
+llms = re.sub(r"\n## More locations, services and guides\n.*?(?=\n## Contact)", "", llms, flags=re.S)
+llms = llms.replace("\n## Contact", "\n## More locations, services and guides\n\n" +
+                    "".join(f"- [{t}]({SITE}{u}): {d}\n" for k, t, u, d, p in new) + "\n## Contact")
+if True:
     llms = llms.replace("Serves Payyanur, Kannur, Kasaragod, Kozhikode, Kochi",
                         "Serves Payyanur, Kannur, Thalassery, Taliparamba, Kasaragod, Kanhangad, Vadakara, Kozhikode, Kochi")
+    llms = llms.replace("Vadakara, Kozhikode, Kochi and the rest of Kerala", "Vadakara, Kozhikode, Wayanad, Malappuram, Palakkad, Thrissur, Kochi, Thiruvananthapuram and the rest of Kerala")
     (site / "llms.txt").write_text(llms)
 
 manifest = {}
