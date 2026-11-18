@@ -3,14 +3,14 @@ slug: case-study-unicorn-bakes
 url: /work/unicorn-bakes/
 kind: case
 title: Unicorn Bakes Case Study: ₹95 Lakh in Sales From ₹8 Lakh Ad Spend | Brandvo Digital Co.
-metaDescription: How Brandvo Digital Co. helped Unicorn Bakes, a Payyanur pastry shop, turn ₹8 lakh of ad spend into ₹95 lakh in sales over two years with content, Meta Ads and branding.
+metaDescription: How Brandvo Digital Co. helped Unicorn Bakes, a Payyanur pastry shop, turn ₹8 lakh of ad spend into ₹95 lakh in sales over two years with content, influencer marketing, Meta Ads and branding.
 h1: Unicorn Bakes: ₹95 Lakh in Sales From ₹8 Lakh in Ad Spend
 primaryKeyword: digital marketing case study kerala
 breadcrumb: Work > Unicorn Bakes
 client: Unicorn Bakes
 ---
 
-**Unicorn Bakes** is a pastry and cake shop in Payyanur, Kannur district. Working with Brandvo Digital Co. on content, Meta Ads and branding, the business generated **₹95 lakh in sales from ₹8 lakh in ad spend over two years**, roughly ₹11.9 in sales for every ₹1 spent on ads.
+**Unicorn Bakes** is a pastry and cake shop in Payyanur, Kannur district. Working with Brandvo Digital Co. on content, influencer marketing, Meta Ads and branding, the business generated **₹95 lakh in sales from ₹8 lakh in ad spend over two years**, roughly ₹11.9 in sales for every ₹1 spent on ads.
 
 ![Unicorn Bakes work by Brandvo Digital Co.](/work/unicorn-bakes.webp)
 
@@ -43,6 +43,9 @@ We gave Unicorn Bakes a consistent, appetising look across Instagram, Facebook, 
 ### Content that makes people hungry
 Short videos and photos of cakes, pastries and custom orders, planned around the occasions people celebrate and the Kerala festival calendar. See [social media marketing](/services/social-media-marketing/).
 
+### Influencer marketing
+We brought in local food and lifestyle creators whose followers match Unicorn Bakes' customers, so new people heard about the shop from someone they already trust. Creator content also gave us real, relatable material to reuse in ads.
+
 ### Meta Ads aimed at orders
 Facebook and Instagram campaigns targeted to people around Payyanur and nearby towns, with WhatsApp and calls as the way to order. We kept spending on what brought orders and cut what did not. See [Meta Ads](/services/meta-ads/).
 
@@ -55,7 +58,7 @@ We watched orders, not just clicks, so every budget decision was based on what a
 
 ## What this means for your business
 
-The lesson is not "spend ₹8 lakh". It is that a local business with a strong brand, consistent content and ads measured by sales can make every rupee of ad spend work hard. The same approach applies to restaurants, salons, retail shops and service businesses across Kerala. Results depend on your product, margins, market and how quickly your team responds to enquiries, so we never promise a specific return.
+The lesson is not "spend ₹8 lakh". It is that a local business with a strong brand, consistent content, trusted local voices and ads measured by sales can make every rupee of ad spend work hard. The same approach applies to restaurants, salons, retail shops and service businesses across Kerala. Results depend on your product, margins, market and how quickly your team responds to enquiries, so we never promise a specific return.
 
 ## Where Brandvo Digital Co. fits
 
@@ -73,7 +76,7 @@ No. Results depend on the product, margins, market, budget and how well enquirie
 No. Ad spend is paid directly to Meta from your own ad account, and our fee is separate. Read our [digital marketing cost guide](/blog/digital-marketing-cost-in-kerala/).
 
 ### Do you work with other food businesses?
-Yes. Bakeries, restaurants, cafés and cloud kitchens are a strong fit for content-led Meta Ads.
+Yes. Bakeries, restaurants, cafés and cloud kitchens are a strong fit for content-led Meta Ads and influencer campaigns.
 
 ## Related pages
 
