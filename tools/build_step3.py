@@ -21,7 +21,7 @@ import markdown
 
 SITE = "https://brandvodigital.com"
 TODAY = "2026-11-16"
-PHONE = "+91 62820 70376"
+PHONE = "+91 62354 34787"  # calling number; 62820 70376 is WhatsApp only
 EMAIL = "info@brandvodigital.com"
 
 out = Path(sys.argv[1])
