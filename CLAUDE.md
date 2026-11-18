@@ -20,7 +20,8 @@ Core services: Social Media Marketing, Meta Ads, SEO, Web Design & Development, 
 - Based in Payyanur, Kannur district, Kerala, India
 - Website: brandvodigital.com
 - Email: info@brandvodigital.com
-- Phone / WhatsApp: +91 62820 70376; website footer phone: +91 62354 34787
+- WhatsApp: +91 62820 70376 (WhatsApp only, use for wa.me links and click-to-WhatsApp)
+- Phone (calls): +91 62354 34787 (use for tel: links and "call us")
 - Instagram: instagram.com/brandvo_digital_co
 - Facebook: facebook.com/p/Brandvo-Digital-Co-61590207584449
 - LinkedIn: linkedin.com/company/144779128
