@@ -166,6 +166,18 @@ for f in sorted(src.glob("*.md")):
     new.append((kind, list_title, url, fm["metaDescription"], fm.get("place")))
     print("page", url, len(fq), "faqs")
 
+# ------------------------------------------------ homepage: keyword title and H1 (18 Nov 2026, approved by Hola)
+HOME_TITLE = "Best Digital Marketing Agency in Kerala & Kannur | Brandvo Digital Co."
+HOME_H1 = "Best Digital Marketing Agency in Kerala &amp; Kannur"
+home = site / "index.html"
+t = home.read_text()
+t = t.replace("Digital Marketing Agency in Kerala | Brandvo Digital Co.", esc(HOME_TITLE).replace("&#x27;", "'"))
+old_hero = re.search(r'<p class="eyebrow mb-6 animate-\[fadeUp_\.8s_both\]">Strategy[^<]*</p><h1 (class="h-display[^"]*")>(.*?)</h1>', t, flags=re.S)
+if old_hero:
+    t = t.replace(old_hero.group(0), f'<h1 class="eyebrow mb-6 animate-[fadeUp_.8s_both]">{HOME_H1}</h1><p {old_hero.group(1)}>{old_hero.group(2)}</p>')
+assert t.count("<h1") == 1 and HOME_H1 in t
+home.write_text(t)
+
 # ------------------------------------------------ footer locations list (static HTML + bundle)
 FOOT_A = "focus-ring rounded text-sm text-white/55 transition-colors hover:text-white"
 extra_loc = [("Digital marketing in Thalassery", "/digital-marketing-agency-in-thalassery/"),
@@ -187,7 +199,12 @@ old = '["Digital marketing in Payyanur","/digital-marketing-agency-in-payyanur/"
 if extra_loc[0][1] not in s:
     assert s.count(old) == 1
     s = s.replace(old, old + "".join(f'["{n}","{u}"],' for n, u in extra_loc))
-    js.write_text(s)
+s = s.replace('"Digital Marketing Agency in Kerala | Brandvo Digital Co."', json.dumps(HOME_TITLE))
+s = re.sub(r'i\.jsx\("p",\{className:"eyebrow mb-6 animate-\[fadeUp_\.8s_both\]",children:"Strategy[^"]*"\}\),i\.jsxs\("h1",\{className:"h-display animate-\[fadeUp_\.9s_\.08s_both\]',
+           lambda m: 'i.jsx("h1",{className:"eyebrow mb-6 animate-[fadeUp_.8s_both]",children:"Best Digital Marketing Agency in Kerala & Kannur"}),'
+                     'i.jsxs("p",{className:"h-display animate-[fadeUp_.9s_.08s_both]', s)
+assert 'children:"Best Digital Marketing Agency in Kerala & Kannur"' in s and HOME_TITLE in s
+js.write_text(s)
 newname = "index-bv" + hashlib.sha1(s.encode()).hexdigest()[:8] + ".js"
 if newname != js.name:
     js.rename(js.parent / newname)
