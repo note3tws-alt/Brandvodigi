@@ -55,7 +55,7 @@ These are the patterns we see most often when a Kannur business asks us to look 
 
 ## Proof from our North Kerala clients
 
-**Unicorn Bakes, Payyanur.** Over two years, Unicorn Bakes put ₹8 lakh into ads and recorded ₹95 lakh in sales, about 11.9 times its ad spend. Brandvo Digital Co. handled content, influencer marketing, Meta Ads and branding. Read the [full Unicorn Bakes case study](/work/unicorn-bakes/). In the founder's words: "Their content, ads and branding brought in steady orders and good sales." — Abhishek, Founder, Unicorn Bakes
+**Unicorn Bakes, Payyanur.** Over two years, Unicorn Bakes put ₹8 lakh into ads and recorded ₹95 lakh in sales, about 11.9 times its ad spend. Brandvo Digital Co. handled content, influencer marketing, Meta Ads and branding. Read the [full Unicorn Bakes case study](/work/unicorn-bakes/). In the founder's words: "Their content, ads and branding brought in steady orders and good sales." — Sreejith Ramesh, Founder, Unicorn Bakes
 
 **SAJ Realty (real estate):** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
 
