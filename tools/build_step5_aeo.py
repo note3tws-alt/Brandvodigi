@@ -88,7 +88,6 @@ llms = f"""# Brandvo Digital Co.
 - Instagram: https://www.instagram.com/brandvo_digital_co/
 - Facebook: https://www.facebook.com/p/Brandvo-Digital-Co-61590207584449/
 - LinkedIn: https://www.linkedin.com/company/144779128/
-- Not affiliated with brandvo.sa (a separate agency in Riyadh).
 
 ## Services and locations
 
