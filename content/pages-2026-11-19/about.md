@@ -3,7 +3,7 @@ slug: about
 url: /about/
 kind: about
 title: About Brandvo Digital Co. | Digital Marketing Agency in Payyanur, Kerala
-metaDescription: Brandvo Digital Co. is a Payyanur-based digital marketing and creative agency founded by Ansar, with co-founders Akshay and Abhishek. Who we are, how we work and who we work with.
+metaDescription: Brandvo Digital Co. is a Payyanur-based digital marketing and creative agency founded by Muhammed Ansar, with co-founders Akshay and Abhishek Prakash. Who we are, how we work and who we work with.
 h1: About Brandvo Digital Co.
 primaryKeyword: brandvo digital co
 breadcrumb: About
@@ -13,9 +13,13 @@ breadcrumb: About
 
 ## Who we are
 
-Brandvo Digital Co. was founded by **Ansar**, with **Akshay** and **Abhishek** as co-founders. The team plans strategy, writes and designs content, creates Reels, runs ads and builds websites, so the brand, the content and the campaigns all come from the same place.
+Brandvo Digital Co. was founded by **Muhammed Ansar**, with **Akshay** and **Abhishek Prakash** as co-founders. The team plans strategy, writes and designs content, creates Reels, runs ads and builds websites, so the brand, the content and the campaigns all come from the same place.
 
 We are based in Payyanur and work with clients across Kerala in person and online.
+
+## Meet the team
+
+(Rendered as cards by tools/build_step10_team.py: Muhammed Ansar, Founder, Social Media Manager; Akshay, Co-founder, Graphic & Content Creator; Abhishek Prakash, Co-founder, Marketing Head; Fathimath Thashreefa, Digital Marketing Specialist & Social Media Influencer.)
 
 ## What we believe
 
@@ -75,7 +79,7 @@ Or [book a free strategy call](/#contact).
 In Payyanur, Kannur district, Kerala. We work with clients across Kerala and in the UAE.
 
 ### Who founded Brandvo Digital Co.?
-Ansar is the founder, and Akshay and Abhishek are co-founders.
+Muhammed Ansar is the founder and social media manager. Akshay (graphic and content creator) and Abhishek Prakash (marketing head) are co-founders.
 
 ### Is Brandvo Digital Co. connected to brandvo.sa?
 No. Brandvo.sa is a separate creative agency in Riyadh and is not affiliated with us.

@@ -24,7 +24,7 @@ Core services: Social Media Marketing, Meta Ads, SEO, Web Design & Development, 
 - Instagram: instagram.com/brandvo_digital_co
 - Facebook: facebook.com/p/Brandvo-Digital-Co-61590207584449
 - LinkedIn: linkedin.com/company/144779128
-- Founder: Ansar. Co-founders: Akshay and Abhishek (confirmed by the owner 17 Nov 2026). Sajeer Angillath (SAJ Realty) and Abhishek of Unicorn Bakes appear on the site as client testimonials.
+- Founder: Muhammed Ansar (Social Media Manager). Co-founders: Akshay (Graphic & Content Creator) and Abhishek Prakash (Marketing Head). Team: Fathimath Thashreefa (Digital Marketing Specialist & Social Media Influencer). Confirmed by the owner 22 Nov 2026; team section on the homepage and /about/#team (tools/build_step10_team.py). Sajeer Angillath (SAJ Realty) and Abhishek of Unicorn Bakes appear on the site as client testimonials.
 - Clients: Ruyah by Naas (beauty salon and designer lounge, Kozhikode), Unicorn Bakes (pastry shop, Payyanur), K1 Kitchen Gallery, Land4Sale Payyanur, SAJ Realty (real estate), Auto Jota, Playbox Club (PS5 gaming station, Kochi)
 - Note: brandvo.sa (a Riyadh creative agency) is a separate business, not affiliated
 
