@@ -37,7 +37,7 @@ Festivals and seasons matter here too: Onam, Vishu, Eid, Christmas, the wedding 
 
 ## Proof from North Kerala clients
 
-- **Unicorn Bakes, Payyanur:** "Their content, ads and branding brought in steady orders and good sales." — Abhishek, Founder
+- **Unicorn Bakes, Payyanur:** "Their content, ads and branding brought in steady orders and good sales." — Sreejith Ramesh, Founder
 - **SAJ Realty:** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
 - **Land4Sale Payyanur** and **K1 Kitchen Gallery** are also Brandvo Digital Co. clients.
 

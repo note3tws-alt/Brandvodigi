@@ -43,7 +43,7 @@ Good campaigns are planned for the place, the language (Malayalam, English or bo
 
 - **SAJ Realty (real estate):** "Brandvo Digital Co. helped us get highly qualified leads for our real estate properties." — Sajeer Angillath, Founder
 - **Playbox Club, Kochi (PS5 gaming station):** "Brandvo Digital Co. helped us get steady PS5 sales and made Playbox Club the best gaming station in Kochi." — Jishnu KV, Founder
-- **Unicorn Bakes, Payyanur (customised cakes):** "Their content, ads and branding brought in steady orders and good sales." — Abhishek, Founder
+- **Unicorn Bakes, Payyanur (customised cakes):** "Their content, ads and branding brought in steady orders and good sales." — Sreejith Ramesh, Founder
 - Also: Ruyah by Naas (Kozhikode), K1 Kitchen Gallery, Land4Sale Payyanur, Auto Jota.
 
 ## How we work

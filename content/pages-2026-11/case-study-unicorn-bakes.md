@@ -54,7 +54,7 @@ We watched orders, not just clicks, so every budget decision was based on what a
 
 ## What the client says
 
-"Their content, ads and branding brought in steady orders and good sales." — Abhishek, Founder, Unicorn Bakes
+"Their content, ads and branding brought in steady orders and good sales." — Sreejith Ramesh, Founder, Unicorn Bakes
 
 ## What this means for your business
 
