@@ -81,6 +81,9 @@ In Payyanur, Kannur district, Kerala. We work with clients across Kerala and in 
 ### Who founded Brandvo Digital Co.?
 Muhammed Ansar is the founder and social media manager. Akshay (graphic and content creator) and Abhishek Prakash (marketing head) are co-founders.
 
+### Is Brandvo Digital Co. connected to other agencies with a similar name?
+Brandvo Digital Co. is the original Brandvo, founded in Kannur, Kerala. We are not affiliated with any other agency using a similar name.
+
 ### Do you work with businesses outside Kannur?
 Yes. Clients in Kozhikode, Kochi and elsewhere work with us online, with visits for shoots and planning.
 
