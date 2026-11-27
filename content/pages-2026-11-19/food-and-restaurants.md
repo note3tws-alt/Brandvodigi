@@ -47,7 +47,7 @@ A consistent look across your page, boxes, bags and shopfront, so people remembe
 | Meta Ads around Payyanur and nearby towns | Turned attention into WhatsApp and phone orders |
 | Tracking orders, not likes | Budget went to what actually sold |
 
-"Their content, ads and branding brought in steady orders and good sales." (Abhishek, Founder, Unicorn Bakes)
+"Their content, ads and branding brought in steady orders and good sales." (Sreejith Ramesh, Founder, Unicorn Bakes)
 
 Results depend on your product, margins, location and how quickly orders are handled, so we never promise a specific return. [Read the full case study](/work/unicorn-bakes/).
 

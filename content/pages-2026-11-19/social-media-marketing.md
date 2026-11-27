@@ -62,7 +62,7 @@ For [Unicorn Bakes in Payyanur](/work/unicorn-bakes/), local food and lifestyle 
 
 ## What clients say
 
-- **Unicorn Bakes, Payyanur:** "Working with Brandvo Digital Co. changed how people find us. Their content, ads and branding brought in steady orders and good sales." (Abhishek, Founder)
+- **Unicorn Bakes, Payyanur:** "Working with Brandvo Digital Co. changed how people find us. Their content, ads and branding brought in steady orders and good sales." (Sreejith Ramesh, Founder)
 - **Playbox Club, Kochi:** "Brandvo Digital Co. helped us get steady PS5 sales and made Playbox Club the best gaming station in Kochi." (Jishnu KV, Founder)
 - **Ruyah by Naas, Kozhikode** (beauty salon and designer lounge) is also a client. See our [beauty and salon marketing](/industries/beauty-and-salons/) page.
 
